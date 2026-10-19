@@ -16,8 +16,8 @@
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Pré-requisitos](#-pré-requisitos)
 - [Como Executar o Projeto](#-como-executar-o-projeto)
-- [Build e Compilação](#-build-e-compilação)
-- [Autor](#-autor)
+
+
 
 ---
 
